@@ -22,3 +22,6 @@ Założenia projektu:
 - Ilość dostępnych wolnych miejsc na wydarzenie (Lokale: maks_ludzi – sprzedane bilety)
 - Aktualny przychód z biletów na dane wydarzenie (Biorąc pod uwagę różne rodzaje biletów)
 - Kalendarz wydarzeń na dany miesiąc (Przedstawienie wszystkich zaplanowanych wydarzeń na dany miesiąc)
+<br>
+
+![Screenshot of project diagram.](https://github.com/Hapyy2/EventOrganizer/blob/main/diagram.png)
